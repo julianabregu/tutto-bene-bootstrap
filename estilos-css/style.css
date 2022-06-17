@@ -174,10 +174,20 @@ label{
 }
 
 .sucursal {
-  margin-bottom: 20px;
-  margin-left: 3rem;
+  margin-bottom: 4rem;
+  margin-left: 0.5rem;
   font-size: 2rem;
   font-weight: 300;
 }
 
+.espacio-items{
+  padding: 0.5rem;
+}
 
+.espacio-icons{
+  margin-bottom: 0.3rem;
+}
+
+#mapa {
+  margin-top: 4.5rem;
+}
